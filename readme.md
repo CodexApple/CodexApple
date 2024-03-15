@@ -1,7 +1,7 @@
 <!-- <p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p> -->
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://cdn.discordapp.com/attachments/1012049378552315914/1069727698789871726/26.jpg"/>
+<img align="right" width="400" alt="Reina (Hiten)" src="https://s1.zerochan.net/Hiten.Goane.Ryu.600.2425252.jpg"/>
 
 <h2> / about me /</h2>
 
